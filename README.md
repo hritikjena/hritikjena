@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/hritik_05" target="blank"><img src="https://img.shields.io/twitter/follow/hritik_05?logo=twitter&style=for-the-badge" alt="hritik_05" /></a> </p>
 
-- 🌱 I’m currently learning **Java,Frontend Development,DBMS,DSA**
+- 🌱 I’m currently learning **Java,OS Development,DBMS,DSA**
 
-- 💬 Ask me about **C,C++, and HTML,CSS**
+- 💬 Ask me about **C,C++,OS and HTML,CSS**
 
 - 📫 How to reach me **hritikjn6@gmail.com**
 
