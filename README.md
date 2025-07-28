@@ -45,14 +45,14 @@
 <h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="C" width="40" height="40"/>
-  <img src="[[https://icon2.cleanpng.com/20180324/dsq/kisspng-the-c-programming-language-internet-explorer-5ab6f84dd88db8.953434381521940557887.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fc_6132222&psig=AOvVaw3yfMnlGZg4ZTyrpzzQVpXM&ust=1753812956591000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDlxsSU4I4DFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisualpharm.com%2Ffree-icons%2Fprogrammed%2520device&psig=AOvVaw3yfMnlGZg4ZTyrpzzQVpXM&ust=1753812956591000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDlxsSU4I4DFQAAAAAdAAAAABAK)" alt="C++" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="40" height="40"/>
-  <img src="[https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fandroid-studio-icon%2F&psig=AOvVaw1Y3VTjUYcxBcECUWtRXtSY&ust=1753813103747000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCy0IqV4I4DFQAAAAAdAAAAABAE)" alt="Android_studio" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" width="40" height="40"/>
 </p>
 
 ---
@@ -74,10 +74,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/graph.svg?username=hritikjena&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
-</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hritikjena" alt="Visitor badge"/>
