@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/hritik_05" target="blank"><img src="https://img.shields.io/twitter/follow/hritik_05?logo=twitter&style=for-the-badge" alt="Twitter: @hritik_05"></a>
+  <a href="https://www.instagram.com/hritik_offl/" target="blank"><img src="https://img.shields.io/badge/Instagram-hritik__offl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @hritik_offl"></a>
   <a href="mailto:hritikjn6@gmail.com"><img src="https://img.shields.io/badge/Email-hritikjn6@gmail.com-critical?style=for-the-badge&logo=gmail" alt="Email"></a>
   <img src="https://img.shields.io/badge/jokes-bad--timing-orange?style=for-the-badge">
 </p>
